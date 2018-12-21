@@ -54,19 +54,5 @@ pause;
 ![原画像](https://github.com/ikeda0927/lecture_image_processing/blob/master/kadai_img/画像処理3_5.png?raw=true)  
 図6
 
-IMG = ORG > 128;
-imagesc(IMG); colormap(gray); colorbar;
-pause;
-
-表示された画像
-![原画像](https://github.com/ikeda0927/lecture_image_processing/blob/master/kadai_img/画像処理3_6.png?raw=true)  
-図8
-
-IMG = ORG > 192;
-imagesc(IMG); colormap(gray); colorbar;
-
-表示された画像
-![原画像](https://github.com/ikeda0927/lecture_image_processing/blob/master/kadai_img/画像処理3_7.png?raw=true)  
-図9
-
+これらの図から、閾値処理をしていくと輪郭やだいたいの形状などが読み取れそうだと感じた。
 
