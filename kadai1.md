@@ -17,7 +17,7 @@ IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 
 1/2サンプリングの結果を図２に示す．
 
-![原画像](https://github.com/mackhasegawa/lecture_image_processing/blob/master/image/kadai1_1.png?raw=true)  
+![原画像](https://github.com/ikeda0927/lecture_image_processing/blob/master/kadai_img/画像処理1_1.png?raw=true)  
 図2 1/2サンプリング
 
 同様に原画像を1/4サンプリングするには，画像を1/2倍に縮小した後，2倍に拡大すればよい．すなわち，
